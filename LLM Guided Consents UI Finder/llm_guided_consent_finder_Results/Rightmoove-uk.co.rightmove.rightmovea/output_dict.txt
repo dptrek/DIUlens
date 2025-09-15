@@ -1,0 +1,34 @@
+{
+    "inner_0_highlighted.png": {
+        "label": "inner_0_highlighted.png",
+        "elements": {
+            "name": "name:Account label:Account type:XCUIElementTypeButton",
+            "label": "Account",
+            "navigation": "exit"
+        }
+    },
+    "inner_1_highlighted.png": {
+        "label": "inner_1_highlighted.png",
+        "elements": {
+            "name": "name:app data policy label:app data policy type:XCUIElementTypeLink",
+            "label": "app data policy",
+            "navigation": "inner_1.png"
+        }
+    },
+    "inner_2_highlighted.png": {
+        "label": "inner_2_highlighted.png",
+        "elements": {
+            "name": "name:privacy policy label:privacy policy type:XCUIElementTypeLink",
+            "label": "privacy policy",
+            "navigation": "inner_2.png"
+        }
+    },
+    "inner_3_highlighted.png": {
+        "label": "inner_3_highlighted.png",
+        "elements": {
+            "name": "name:saveButtonIdentifier label:Save type:XCUIElementTypeButton",
+            "label": "Save",
+            "navigation": "exit"
+        }
+    }
+}

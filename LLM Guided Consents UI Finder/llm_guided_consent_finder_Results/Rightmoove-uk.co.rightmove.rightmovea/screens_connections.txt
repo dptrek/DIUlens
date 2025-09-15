@@ -1,0 +1,4 @@
+inner_0_highlighted.png > inner_0.png
+inner_1_highlighted.png > inner_1.png
+inner_2_highlighted.png > inner_2.png
+inner_3_highlighted.png > inner_3.png

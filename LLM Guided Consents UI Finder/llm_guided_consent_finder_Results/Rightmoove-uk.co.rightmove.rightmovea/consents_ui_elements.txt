@@ -1,0 +1,25 @@
+ElementName:Rightmoove|ElementLabel:Rightmoove|ElementVisible:true|ElementType:XCUIElementTypeApplication
+ElementName:Privacy settings|ElementLabel:NoLabel|ElementVisible:true|ElementType:XCUIElementTypeNavigationBar
+ElementName:Account|ElementLabel:Account|ElementVisible:true|ElementType:XCUIElementTypeButton
+ElementName:Privacy settings|ElementLabel:Privacy settings|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:Vertical scroll bar, 2 pages|ElementLabel:Vertical scroll bar, 2 pages|ElementVisible:true|ElementType:XCUIElementTypeOther
+ElementName:Horizontal scroll bar, 1 page|ElementLabel:Horizontal scroll bar, 1 page|ElementVisible:true|ElementType:XCUIElementTypeOther
+ElementName:We use information on how you use the app. This helps us make it work better for you.|ElementLabel:We use information on how you use the app. This helps us make it work better for you.|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:saveButtonIdentifier|ElementLabel:Save|ElementVisible:true|ElementType:XCUIElementTypeButton
+ElementName:If you want to read more about how we use your information, read our app data policy. You can also view our privacy policy.|ElementLabel:If you want to read more about how we use your information, read our app data policy. You can also view our privacy policy.|ElementVisible:true|ElementType:XCUIElementTypeTextView
+ElementName:Save|ElementLabel:Save|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:app data policy|ElementLabel:app data policy|ElementVisible:true|ElementType:XCUIElementTypeLink
+ElementName:privacy policy|ElementLabel:privacy policy|ElementVisible:true|ElementType:XCUIElementTypeLink
+ElementName:These settings are linked to this device|ElementLabel:These settings are linked to this device|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:This helps make your experience seamless and efficient. It includes basic functions of an app required for it to work.|ElementLabel:This helps make your experience seamless and efficient. It includes basic functions of an app required for it to work.|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:switchViewAccessibilityIdentifier|ElementLabel:NoLabel|ElementVisible:true|ElementType:XCUIElementTypeSwitch
+ElementName:Based on your search results we share relevant marketing information, to help personalise your experience.|ElementLabel:Based on your search results we share relevant marketing information, to help personalise your experience.|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:switchViewAccessibilityIdentifier|ElementLabel:NoLabel|ElementVisible:true|ElementType:XCUIElementTypeSwitch
+ElementName:We do not store information for the purposes of marketing. We use this information to help with commercial decisions.|ElementLabel:We do not store information for the purposes of marketing. We use this information to help with commercial decisions.|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:switchViewAccessibilityIdentifier|ElementLabel:NoLabel|ElementVisible:true|ElementType:XCUIElementTypeSwitch
+ElementName:mobilePhoneRegular|ElementLabel:NoLabel|ElementVisible:true|ElementType:XCUIElementTypeImage
+ElementName:Strictly necessary|ElementLabel:Strictly necessary|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:alwaysActiveLozenge|ElementLabel:Always active|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:Functional|ElementLabel:Functional|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:Targeting and Tracking|ElementLabel:Targeting and Tracking|ElementVisible:true|ElementType:XCUIElementTypeStaticText
+ElementName:Always active|ElementLabel:Always active|ElementVisible:true|ElementType:XCUIElementTypeStaticText

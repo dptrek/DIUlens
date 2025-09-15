@@ -1,0 +1,2 @@
+1 clicks needed:
+	<0> - name:Privacy settings type:XCUIElementTypeCell
