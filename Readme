@@ -1,1 +1,40 @@
-Under construction.....
+# llm-guided-consent-finder
+
+This Python script automates the process of identifying consent screens within an iOS app, taking screenshots of each screen and navigating through them. It leverages Appium for automation and requires a jailbroken iPhone for full access.  
+
+## Prerequisites  
+
+Before running the script, ensure the following requirements are met:  
+
+1. **Jailbroken iPhone** – The script requires root access to interact with the app freely.  
+2. **Appium Installed and running in the background on the Machine** – Used for automating interactions with the app.    
+3. **Prepare your API KEYs** 
+
+- set your AppStore account email by running this command in the terminal (make sure you set the API KYEs in the same terminal where you run the script in): 
+```sh
+export AppStore_email="YOUR_AppStore_Email_HERE"
+```
+
+- set your AppStore account password by running this command in the terminal (make sure you set the API KYEs in the same terminal where you run the script in): 
+```sh
+export AppStore_password="YOUR_AppStore_Password_HERE"
+```
+
+
+- set your OpenAI key by running this command in the terminal (make sure you set the API KYEs in the same terminal where you run the script in): 
+```sh
+export OPENAI_API_KEY="YOUR_OpenAI_KEY_HERE"
+```
+
+- set your Dropbox key by running this command in the terminal:
+```sh
+export MY_Dropbox_access_key="YOUR_Dropbox_KEY_HERE"
+```
+
+## Tested Environments  
+
+- **macOS Sonoma 14.6.1**  
+- **iPhone X running iOS 16.7.10**  
+
+
+
